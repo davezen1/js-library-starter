@@ -29,6 +29,10 @@ If jest hangs:
 
 Clone contents of repo and adjust.
 
+[For publishing to npm and GitHub package](https://help.github.com/en/actions/language-and-framework-guides/publishing-nodejs-packages)
+
+The release flow would be tag code, v1.0 for example, create a release in GitHub. This would trigger the publish nodejs npm/GitHub pacakge workflow.
+
 ## Roadmap
 
 Tentative to do list
