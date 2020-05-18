@@ -1,4 +1,4 @@
-![Node.js CI](https://github.com/davezen1/js-library-starter/workflows/Node.js%20CI/badge.svg)
+![CI](https://github.com/davezen1/js-library-starter/workflows/CI/badge.svg)
 [![Coverage Status](https://coveralls.io/repos/github/davezen1/js-library-starter/badge.svg?branch=master)](https://coveralls.io/github/davezen1/js-library-starter?branch=master)
 
 # JS Starter Library
